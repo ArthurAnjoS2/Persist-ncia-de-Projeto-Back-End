@@ -1,5 +1,5 @@
 (html)
-  (h1) Seja bem vindo (/h1)
-
-
+  (body)
+    (h1) Seja bem vindo (/h1)
+  (/body)
 (/html_
